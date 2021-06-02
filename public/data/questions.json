@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "question": "Which one of the following is cold ?",
+        "options": [
+            {
+                "id": 1,
+                "value": "hot chocolate"
+            },
+            {
+                "id": 2,
+                "value": "hot coffee"
+            },
+            {
+                "id": 3,
+                "value": "icecream"
+            },
+            {
+                "id": 4,
+                "value": "cake"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "What is the Capital of India ?",
+        "options": [
+            {
+                "id": 1,
+                "value": "New Delhi"
+            },
+            {
+                "id": 2,
+                "value": "Kolkata"
+            },
+            {
+                "id": 3,
+                "value": "Chennai"
+            },
+            {
+                "id": 4,
+                "value": "Kerala"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What is the 1st part of the JAVASCRIPT?",
+        "options": [
+            {
+                "id": 1,
+                "value": "JA"
+            },
+            {
+                "id": 2,
+                "value": "SCRIPT"
+            },
+            {
+                "id": 3,
+                "value": "PYTHON"
+            },
+            {
+                "id": 4,
+                "value": "JAVA"
+            }
+        ]
+    }
+]
